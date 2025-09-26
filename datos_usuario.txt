@@ -1,1 +1,2 @@
 “gonza=vagrant”
+model name	: AMD Ryzen 7 5700
